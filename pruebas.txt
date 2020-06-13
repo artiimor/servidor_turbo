@@ -1,0 +1,20 @@
+PRUEBA 1: Ver si se crea bien el servidor.
+./server (con el puerto 1200)
+telnet localhost 1200
+
+Resultado: SALIDA ESPERADA (string sencillo)
+
+PRUEBA 2: añadimos tratado de peticiones por hilos
+Añadimos: 
+if ( (childpid = fork()) == 0){
+            process_request(connfd);
+            exit(EXIT_SUCCESS);
+        }
+
+./server (con el puerto 1200)
+telnet localhost 1200
+ 
+
+Resultado: SALIDA ESPERADA (string sencillo)
+
+

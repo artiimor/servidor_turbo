@@ -1,5 +1,14 @@
 # Servidor Turbo
 
+## Construido con
+
+* [C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+
+## Developers
+
+* **Javier Lougedo** - [JLougedo](https://github.com/JLougedo)
+* **Arturo Morcillo** - [artiimor](https://github.com/artiimor)
+
 ## Introducción
 Práctica 1 de la asignatura de Redes de Comunicaciones 2 de los alumnos Arturo Morcillo y Javier Lougedo, correspondiente a la creación de un Servidor Web sencillo en C. Hemos denominado a todos nuestos proyectos "Turbo" para tener una cierta linealidad y punto en común para todos los proyectos, por lo que este tiene el sobrenombre de Servidor Turbo.
 Esta práctica la realizamos inicialmente en la universidad. Al tener ciertos problemas por estilos de programación conflictivos y ver que inicialmente nos costó organizarnos para trabajar solapándonos en esta práctica, decidimos comenzar a trabajar juntos en lo que sería el boceto inicial del servidor, para tomar las principales y más importantes decisiones de diseño en conjunto y sintonía, y que Arturo se encargase de los detalles finales, mientras que yo, Javier, me encargaba de lo referente a las pruebas y la documentación, ya que tuve problemas con la subida de ficheros a GitEPS (no me dejaba trabajar más allá que en el editor integrado online). Es una organización que ha dado sus frutos, ya que de esta forma hemos conseguido no pisarnos entre nosotros a la hora de programar, ni depender de los conocimientos o de un módulo que haya realizado el otro, sino que hemos podido funcionar en buena sintonía y trabajando adecuadamente, informándonos de los principales cambios producidos y de los problemas más graves que presentaba el servidor, para ir tomando soluciones entre los dos. Además, al haber dispuesto de un tiempo tan extenso para realizar las prácticas, no hemos necesitado trabajar de forma simultanea y solapada en ningún momento.
